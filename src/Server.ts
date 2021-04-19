@@ -2,7 +2,7 @@ import express from 'express'
 
 const app = express();
 
-/**
+/*
 * GET = Buscas
 * POST = Criação
 * DELETE = Deletar
